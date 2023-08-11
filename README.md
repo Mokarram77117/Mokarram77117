@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mokarram77117" alt="mokarram77117" /></a> </p>
 
-- 🔭 I’m currently working in [Talent Pro](https://talentpro.global/)
+- 🔭 I’m currently working in [Fanfare Bangladesh Limited](https://fanfare.com.bd/)
 
 - 🌱 I’m currently learning *Reactjs, Nextjs, Node.js,Nest.js, Mongodb.*
 
