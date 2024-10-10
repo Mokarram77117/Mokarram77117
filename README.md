@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in [Fanfare Bangladesh Limited](https://fanfare.com.bd/)
 
-- 🌱 I’m currently learning *Reactjs, Nextjs, Node.js,Nest.js, Mongodb.*
+- 🌱 I’m currently working with *Reactjs, Nextjs, Node.js,Nest.js, Mongodb.*
 
 - 💬 Ask me about *Javasript,React.js,Next.js, Nestjs*
 
